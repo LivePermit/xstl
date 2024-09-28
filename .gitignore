@@ -1,3 +1,10 @@
+# Xmake cache
+.xmake/
+build/
+
+# vscode cache
+.vscode/
+
 # Prerequisites
 *.d
 
